@@ -16,3 +16,8 @@ After each step of the data analysis process I have taken feedback from my fathe
 For the presentation ,I have mainly focused on the influence of several numeric and categorical variables on the IMDb rating of a movie.In the initial section, I have explored the distributions of the Year and IMDb columns of our dataset. 
 In the following section, I have introduced Bivariate Relationships.The relationship between the IMDb rating with Year,Runtime and the OTT platforms has been explored using appropriate plots.I have also explored the relationships of the OTT platforms with each other using a correlation heatmap.
 In the final section, I have touched upon multivariate relationships. I have distributed the movies as per their Country of production and their respective genres. After this segregation, I have analysed whether the runtime or the year of production have any impact on the IMDb rating of the movie on a granular level.All the relationships have been analyzed using appropriate plots and metrics.   
+
+# Contents of this folder - 
+ - __Exploration__ - The jupyter notebook in which data wrangling and data analysis has been performed.
+ - __Slide_deck__ - Presentation of the various analyses performed for this project.
+ - __Movies,Moviesonstreamingplatforms,genre,countries__ - Contain the data used for this project.
